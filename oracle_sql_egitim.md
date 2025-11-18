@@ -4416,13 +4416,7 @@ FROM RETENTION_RISK_SCORING
 ORDER BY RISK_SCORE DESC, SALARY DESC;
 ```
 
-### Sertifika İçin Gereksinimler
-- ✅ Tüm 8 oturumdaki alıştırmaları tamamlamış olma 
-- ✅ Her oturumdan en az **kolay seviye** sorularının %80'ini doğru yapma
-- ✅ **Orta seviye** sorularının en az %60'ını doğru yapma  
-- ✅ **Zor seviye** sorularının en az %40'ını doğru yapma
-- ✅ Final değerlendirme sorularından en az 7 tanesini doğru yapma
-- ✅ Bir kapsamlı proje senaryosu geliştirme
+
 
 ### Bonus Proje: Kendi Analizinizi Yapın
 Öğrenciler aşağıdaki konulardan birini seçerek kendi analiz sorgularını yazabilirler:
